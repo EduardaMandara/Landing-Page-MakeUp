@@ -6,7 +6,6 @@
 
 - [ ] Data de início do projeto (15 / 06 / 2022); 
 - [ ] Data de entrega do projeto (20 / 06 / 2022);
-
 - [ ] Estrutura HTML;
 - [ ] Definir as cores do site;
 - [ ] Coletar as imagens;
